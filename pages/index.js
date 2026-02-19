@@ -1,5 +1,5 @@
 function Home(){
-    return <h1> Primeiro impacto do github</h1>
+    return <h1> Bora dormir de conchinha?</h1>
 }
 
 export default  Home;

@@ -1,2 +1,2 @@
 # clone-tab
-Projeto de programaÃ§Ã£o
+Projeto de programação do curso.dev

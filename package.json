@@ -1,21 +1,24 @@
 {
   "name": "clone-tab",
   "version": "1.0.0",
-  "description": "Projeto de programação",
+  "description": "Projeto de programaï¿½ï¿½o",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
     "lint:check": "prettier --check .",
-    "lint:fix": "prettier --write ."
+    "lint:fix": "prettier --write .",
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "next": "^13.1.6",
+    "next": "^15.5.12",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "jest": "^29.6.2",
     "prettier": "^3.8.1"
   }
 }
